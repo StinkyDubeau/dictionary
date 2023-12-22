@@ -1,6 +1,9 @@
 # API Keys
 private/apikey.txt
 
+# Dict Specific
+todo.txt
+
 # Logs
 logs
 *.log

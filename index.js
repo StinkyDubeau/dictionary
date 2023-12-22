@@ -22,7 +22,7 @@ function getKey(){
         console.log(data);
         key = data;
       } catch (err) {
-        console.log("Could not read key from file. Ensure your API key is valid and saved in /private/apikey.txt")
+        console.log("Could not read key from file. Ensure your API key is valid and saved in ./private/apikey.txt")
         console.error(err);
       }
     return key;
