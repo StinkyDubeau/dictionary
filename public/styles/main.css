@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(209, 209, 209);
+    font-family: sans-serif;
+}
+.card{
+    background-color: white;
+    padding: 5px;
+}
+
+.has-shadow{
+    box-shadow: 0px 3px 2px -1px lightslategray;
+}
+
+li{
+    margin-bottom: 15px
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-item{
+    margin-top: 25px;
+    width: 50vh;
+    height: 100vh;
+}
+
