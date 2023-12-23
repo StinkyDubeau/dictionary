@@ -17,7 +17,7 @@ cd dictionary
 npm i
 ```
 3. Get an API key from Merriam Webster. It should be for their "Merriam-Webster's Collegiate® Dictionary with Audio".
-4. Define your key for Dictionary to read. It should be saved in "/private/apikey.txt". Create this file and put your key in  the first line. No other text should follow.
+4. Define your key for Dictionary to read. It should be saved in "/private/apikey.txt". Create this directory, file, and put your key in the first line of the file. No other text should follow.
 ```
 mkdir private
 cd private
